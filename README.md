@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shritej Dhere</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🌱 I’m currently learning **Reactjs,Nodejs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
